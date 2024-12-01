@@ -1,0 +1,14 @@
+C:\Users\erkay\source\repos\LinkedListt\LinkedListt\bin\Debug\net8.0\LinkedListt.exe
+C:\Users\erkay\source\repos\LinkedListt\LinkedListt\bin\Debug\net8.0\LinkedListt.deps.json
+C:\Users\erkay\source\repos\LinkedListt\LinkedListt\bin\Debug\net8.0\LinkedListt.runtimeconfig.json
+C:\Users\erkay\source\repos\LinkedListt\LinkedListt\bin\Debug\net8.0\LinkedListt.dll
+C:\Users\erkay\source\repos\LinkedListt\LinkedListt\bin\Debug\net8.0\LinkedListt.pdb
+C:\Users\erkay\source\repos\LinkedListt\LinkedListt\obj\Debug\net8.0\LinkedListt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkay\source\repos\LinkedListt\LinkedListt\obj\Debug\net8.0\LinkedListt.AssemblyInfoInputs.cache
+C:\Users\erkay\source\repos\LinkedListt\LinkedListt\obj\Debug\net8.0\LinkedListt.AssemblyInfo.cs
+C:\Users\erkay\source\repos\LinkedListt\LinkedListt\obj\Debug\net8.0\LinkedListt.csproj.CoreCompileInputs.cache
+C:\Users\erkay\source\repos\LinkedListt\LinkedListt\obj\Debug\net8.0\LinkedListt.dll
+C:\Users\erkay\source\repos\LinkedListt\LinkedListt\obj\Debug\net8.0\refint\LinkedListt.dll
+C:\Users\erkay\source\repos\LinkedListt\LinkedListt\obj\Debug\net8.0\LinkedListt.pdb
+C:\Users\erkay\source\repos\LinkedListt\LinkedListt\obj\Debug\net8.0\LinkedListt.genruntimeconfig.cache
+C:\Users\erkay\source\repos\LinkedListt\LinkedListt\obj\Debug\net8.0\ref\LinkedListt.dll
